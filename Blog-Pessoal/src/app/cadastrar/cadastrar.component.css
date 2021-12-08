@@ -1,8 +1,9 @@
 #img-bg{
   background-image: url('../../assets/imagem1.jpg');
 
-  min-height: 1249px;
 
+  min-height: 738px;
+  max-height: 738px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

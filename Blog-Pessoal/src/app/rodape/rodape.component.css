@@ -16,13 +16,15 @@ ul.social-network li{
 }
 
 .fa-facebook-square:hover{
-  color: grey;
+  color: black;
 }
 
 .fa-linkedin:hover{
-  color: grey;
+  color: black;
 }
 
 .fa-github-square:hover{
-  color: grey;
+  color: black;
 }
+
+
